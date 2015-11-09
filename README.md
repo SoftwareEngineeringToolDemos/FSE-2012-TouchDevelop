@@ -11,7 +11,7 @@ This repository _is not_ the original repository for this tool. Here are some li
 
 * [A Video of the Tool](https://www.youtube.com/watch?v=8C7UJP2Qc8o)
 
-In this repository, for Aalta you will find:
+In this repository, for TouchDevelop you will find:
 
 * :white_check_mark: [Source code](https://github.com/SoftwareEngineeringToolDemos/FSE-2012-TouchDevelop/edit/master) (available)
 
