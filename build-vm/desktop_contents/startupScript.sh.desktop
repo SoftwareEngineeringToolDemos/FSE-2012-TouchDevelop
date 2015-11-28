@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec="/home/vagrant/Desktop/startupScript.sh"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_IN]=startupScript.sh
+Name=startupScript.sh
+Comment[en_IN]=Touch_Develop_launcher
+Comment=Touch_Develop_launcher
