@@ -1,0 +1,30 @@
+Instructions to install and run TouchDevelop web application from scratch for a ubuntu system with graphical user interface.
+
+Original Source: https://github.com/Microsoft/TouchDevelop/blob/master/README.md#setup
+
+1. Open Terminal and change to home directory by executing command:
+cd $HOME
+2. Install Dependency : Git, by executing following commands
+sudo apt-get update
+sudo apt-get install git
+3. Install Dependency : Nodejs, by executing following commands
+sudo apt-get update
+sudo apt-get install nodejs
+4. Install Dependency :npm, by executing following command
+sudo apt-get install npm
+5. Clone TouchDevelop repository from Github.com by executing
+git clone https://github.com/Microsoft/TouchDevelop.git
+6. Change to TouchDevelop directory
+cd TouchDevelop
+5. Install Dependency via npm : jake, by executing following command
+sudo npm install jake -g
+6. Install Dependency via npm : by executing following command
+sudo npm install tsd@next -g
+7. Execute following command for linking node command with nodejs
+ln -s /usr/bin/nodejs /usr/bin/node
+8. Then execute following commands 
+sudo tsd reinstall
+sudo npm install
+9. To run tool locally, execute following command
+jake local
+10. Go to the URL shown in terminal via a web browser to use TouchDevelop
