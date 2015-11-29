@@ -18,3 +18,4 @@ This readme contains instructions to build a basic Ubuntu Desktop Virtual Machin
 4. http://askubuntu.com/questions/230358/problems-creating-a-desktop-entry-for-a-shell-script
 5. https://github.com/Microsoft/TouchDevelop/blob/master/README.md#setup
 6. https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-CodeBubbles/edit/master/build-vm/
+7. https://github.com/boxcutter/ubuntu
