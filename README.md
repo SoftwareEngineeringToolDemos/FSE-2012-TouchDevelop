@@ -13,7 +13,7 @@ This repository _is not_ the original repository for this tool. Here are some li
 
 In this repository, for TouchDevelop you will find:
 
-* :white_check_mark: [Source code](https://github.com/SoftwareEngineeringToolDemos/FSE-2012-TouchDevelop/edit/master) (available)
+* :white_check_mark: [Source code](https://github.com/SoftwareEngineeringToolDemos/FSE-2012-TouchDevelop/) (available)
 
 * :x: The original tool (not available as it is web-based)
 
