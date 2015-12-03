@@ -17,4 +17,6 @@ In this repository, for TouchDevelop you will find:
 
 * :x: The original tool (not available as it is web-based)
 
+* :white_check_mark: [Virtual machine containing tool] (https://drive.google.com/a/ncsu.edu/file/d/0B7EOrH7AL41wVHg2aWxCUDItVzQ/view?usp=sharing)
+
 This repository was constructed by [Aditya Bhise](https://github.com/imadityab) under the supervision of [Dr.Emerson Murphy-Hill](https://github.com/CaptainEmerson).Thanks to Nikolai Tillmann, Michal Moskal, Jonathan De Halleux, Manuel Fahndrich, and Sebastian Burckhardt for their help in establishing this repository.
