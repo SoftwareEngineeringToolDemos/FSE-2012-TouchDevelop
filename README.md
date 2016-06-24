@@ -14,9 +14,7 @@ This repository _is not_ the original repository for this tool. Here are some li
 In this repository, for TouchDevelop you will find:
 
 * :white_check_mark: [Source code](https://github.com/SoftwareEngineeringToolDemos/FSE-2012-TouchDevelop/) (available)
-
-* :x: The original tool (not available as it is web-based)
-
-* :white_check_mark: [Virtual machine containing tool] (https://drive.google.com/open?id=0B7EOrH7AL41wSFFBTFdQTDBWckk) (available)
+* :x: The original tool (not available)
+* :white_check_mark: [Virtual machine containing tool](http://go.ncsu.edu/SE-tool-VMs)
 
 This repository was constructed by [Aditya Bhise](https://github.com/imadityab) under the supervision of [Dr.Emerson Murphy-Hill](https://github.com/CaptainEmerson).Thanks to Nikolai Tillmann, Michal Moskal, Jonathan De Halleux, Manuel Fahndrich, and Sebastian Burckhardt for their help in establishing this repository.
